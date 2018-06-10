@@ -1,8 +1,3 @@
-img[src*='#center'] { 
-    display: block;
-    margin: auto;
-}
-
 # **Finding Lane Lines on the Road** 
 
 Overview
@@ -58,8 +53,6 @@ My pipeline consisted of 5 steps.
 
 5. These Hough lines are consumed by draw_lines() used to draw left lane and right lane on the original color image
 
-![my image](examples/out_basic_pipeline.gif#center)  
-
 #### 2. draw_lines()
 
 1. Input to draw_lines() function is number of line segments found by Hough transform
@@ -72,7 +65,7 @@ My pipeline consisted of 5 steps.
 
 5. Finally, we use the calculated approximate slope and intercept to draw left and right lane on the original color images.
 
-<img src="examples/out_basic_pipeline.gif" width="480" alt="out_basic_pipeline" />
+<img src="examples/out_basic_pipeline.gif" width="auto" alt="out_basic_pipeline" />
 
 #### 3. Improved Pipeline
 
