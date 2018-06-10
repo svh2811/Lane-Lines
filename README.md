@@ -2,16 +2,18 @@
 
 ---
 
-**Finding Lane Lines on the Road**
-
-The goals / steps of this project are the following:
-* Make a pipeline that finds lane lines on the road
-
-<img src="examples/laneLines_thirdPass.jpg" width="480" alt="Combined Image" />
-
 [//]: # (Image References)
 
 [image1]: ./examples/grayscale.jpg "Grayscale"
+
+**Overview
+---
+
+When we drive, we use our eyes to decide where to go. The lines on the road that show us where the lanes are act as our constant reference for where to steer the vehicle. Naturally, one of the first things we would like to do in developing a self-driving car is to automatically detect lane lines using an algorithm.
+
+In this project we will detect lane lines in images using Python and OpenCV. OpenCV means "Open-Source Computer Vision", which is a package that has many useful tools for analyzing images. The goals / steps of this project are the following: Make a pipeline that finds lane lines on the road.
+
+<img src="examples/laneLines_thirdPass.jpg" width="480" alt="Combined Image" />
 
 ### Reflection
 
@@ -54,5 +56,6 @@ My pipeline consisted of 5 steps.
 ### 4. Potential shortcomings and improvements
 
 1. The pipeline assume lane marking to be always present in the image for it to function properly.
-2. A potential improvement here is to use the history of lanes lines detected so far to assist in the current lane marking process.
+2. A potential improvement here is to use the history of lanes lines detected so far to assist in the current lane marking process.  
 3. While the pipeline does a good job of finding lanes, a lot of features in the pipeline are handcrafted. We can use a higher capacity function to find lanes that generalizes well for most of the use cases.
+4. Experiment other image formats like HSL
