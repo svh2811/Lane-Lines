@@ -17,17 +17,25 @@ Output
 ---
 
 <div>
-<div>
-  Solid White Right
-</div>  
-<img src="examples/out_solidWhiteRight.gif" width="480" alt="Solid White Right" />
+  <div>
+    Solid White Right
+  </div>  
+  <img src="examples/out_solidWhiteRight.gif" width="480" alt="Solid White Right" />
 </div>
 
-Solid Yellow Right
-<img src="examples/out_solidYellowLeft.gif" width="480" alt="Solid Yellow Right" />
+<div>
+  <div>
+    Solid Yellow Right
+  </div>
+  <img src="examples/out_solidYellowLeft.gif" width="480" alt="Solid Yellow Right" />
+</div>
 
-Challenge Video
-<img src="examples/out_challenge.gif" width="480" alt="Challenge Video" />
+<div>
+  <div>
+    Challenge Video
+  </div>
+  <img src="examples/out_challenge.gif" width="480" alt="Challenge Video" />
+</div>
 
 Reflection
 ---
