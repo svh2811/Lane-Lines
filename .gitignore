@@ -15,4 +15,5 @@ nohup.out
 challenge_video_frames/*
 test_challenge_frames/error/*
 test_challenge_frames/intermediate_images/*
+test_videos_output/*
 
