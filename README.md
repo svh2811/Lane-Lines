@@ -53,6 +53,8 @@ My pipeline consisted of 5 steps.
 
 5. These Hough lines are consumed by draw_lines() used to draw left lane and right lane on the original color image
 
+<img src="examples/laneLines_thirdPass.jpg" width="480" alt="Combined Image" />
+
 #### 2. draw_lines()
 
 1. Input to draw_lines() function is number of line segments found by Hough transform
@@ -65,6 +67,8 @@ My pipeline consisted of 5 steps.
 
 5. Finally, we use the calculated approximate slope and intercept to draw left and right lane on the original color images.
 
+<img src="examples/out_basic_pipeline.gif" width="480" alt="out_basic_pipeline" />
+
 #### 3. Improved Pipeline
 
 1. Original Image pipeline was modified to make it more robust to light intensity variation. This algorithm was later tested on challenge.mp4 video.
@@ -74,6 +78,8 @@ My pipeline consisted of 5 steps.
 3. Next we linearly add grayscaled_hsv_yellow_only_image with grayscaled_original_image. The idea is that we want to increase the intensity of yellow regions in the grayscaled_original_image so that it gets easier for canny edge detector to find edges.
 
 4. Another improvement done was, instead of using singular region of intrest we now have two regions of intrest one for each lane, therby further reducing the noise in the image.
+
+<img src="examples/out_advcd_pipe_challenge.gif" width="480" alt="out_advcd_pipe_challenge" />
 
 #### 4. Potential shortcomings and improvements
 
