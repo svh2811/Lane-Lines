@@ -13,20 +13,9 @@ In this project we will detect lane lines in images using Python and OpenCV. Ope
 Output
 ---
 
-<div>
-    <div class="imgContainer">
-        <img src="examples/laneLines_thirdPass.jpg" width="200"/>
-        <p>This is image 1</p>
-    </div>
-    <div class="imgContainer">
-        <img src="examples/laneLines_thirdPass.jpg" width="200"/>
-        <p>This is image 2</p>
-    </div>
-    <div class="imgContainer">
-         <img src="examples/laneLines_thirdPass.jpg" width="200"/>
-        <p>This is image 3</p>
-    </div>
-</div>
+| First Header  | Second Header | 3 |
+|---------------|---------------|---|
+| Content Cell  | Content Cell  | a |
 
 
 <a href="http://www.youtube.com/watch?v=kt_0RBdz8rI" target="_blank">
