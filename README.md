@@ -7,6 +7,8 @@
 The goals / steps of this project are the following:
 * Make a pipeline that finds lane lines on the road
 
+<img src="examples/laneLines_thirdPass.jpg" width="480" alt="Combined Image" />
+
 [//]: # (Image References)
 
 [image1]: ./examples/grayscale.jpg "Grayscale"
