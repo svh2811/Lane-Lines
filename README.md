@@ -15,7 +15,13 @@ Output
 
 | First Header  | Second Header | 3 |
 |---------------|---------------|---|
-| Content Cell  | Content Cell  | a |
+| <a href="http://www.youtube.com/watch?v=kt_0RBdz8rI" target="_blank">
+  <img src="http://img.youtube.com/vi/kt_0RBdz8rI/0.jpg" alt="Solid White Right" width="auto" border="10" />
+</a>  | <a href="http://www.youtube.com/watch?v=kt_0RBdz8rI" target="_blank">
+  <img src="http://img.youtube.com/vi/kt_0RBdz8rI/0.jpg" alt="Solid White Right" width="auto" border="10" />
+</a>  | <a href="http://www.youtube.com/watch?v=kt_0RBdz8rI" target="_blank">
+  <img src="http://img.youtube.com/vi/kt_0RBdz8rI/0.jpg" alt="Solid White Right" width="auto" border="10" />
+</a> |
 
 
 <a href="http://www.youtube.com/watch?v=kt_0RBdz8rI" target="_blank">
