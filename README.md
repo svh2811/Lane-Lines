@@ -15,7 +15,12 @@ asasasa
 
 Output
 ---
-asasasas
+
+<img src="examples/out_solidWhiteRight.gif" width="480" alt="Solid White Right">Solid White Right</img>
+
+<img src="examples/out_solidYellowLeft.gif" width="480" alt="Solid Yellow Right">Solid Yellow Right</img>
+
+<img src="examples/out_challenge.gif" width="480" alt="Challenge Video">Challenge Video</img>
 
 Reflection
 ---
