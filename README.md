@@ -17,28 +17,35 @@ Output
 ---
 
 
-<img src="examples/out_solidWhiteRight.gif" width="480" alt="Solid White Right" />
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=7rEq2eerVfM
+" target="_blank"><img src="http://img.youtube.com/vi/7rEq2eerVfM/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="480" border="10" />
+</a>
 
 #### Solid White Right
 ---
 
 
-<img src="examples/out_solidYellowLeft.gif" width="480" alt="Solid Yellow Right" />
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=7rEq2eerVfM
+" target="_blank"><img src="http://img.youtube.com/vi/7rEq2eerVfM/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="480" border="10" />
+</a>
 
 #### Solid Yellow Right
 ---
 
 
-<img src="examples/out_challenge.gif" width="480" alt="Challenge Video" />
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=7rEq2eerVfM
+" target="_blank"><img src="http://img.youtube.com/vi/7rEq2eerVfM/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="480" border="10" />
+</a>
 
 #### Challenge Video
 ---
 
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=7rEq2eerVfM
-" target="_blank"><img src="http://img.youtube.com/vi/7rEq2eerVfM/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" />
-</a>
 
 
 Reflection
