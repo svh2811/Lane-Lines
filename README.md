@@ -39,3 +39,18 @@ My pipeline consisted of 5 steps.
 
 5. Finally, we use the calculated approximate slope and intercept to draw left and right lane on the original color images.
 
+### 3. Improved Pipeline
+
+1. Original Image pipeline was modified to make it more robust to light intensity variation. This algorithm was later tested on challenge.mp4 video.
+
+2. Yellow lane mark is highly sensitive to brightness variation, to tackle this issue we first convert Color image from RGB/BGR format to HSV format. Later we filter this HSV image for yellow color and then convert to grayscale image. This grayscale image now indicates region in images which have yellow color region.
+
+3. Next we linearly add grayscaled_hsv_yellow_only_image with grayscaled_original_image. The idea is that we want to increase the intensity of yellow regions in the grayscaled_original_image so that it gets easier for canny edge detector to find edges.
+
+4. Another improvement done was, instead of using singular region of intrest we now have two regions of intrest one for each lane, therby further reducing the noise in the image.
+
+### 4. Potential shortcomings and improvements
+
+1. The pipeline assume lane marking to be always present in the image for it to function properly.
+2. A potential improvement here is to use the history of lanes lines detected so far to assist in the current lane marking process.
+3. While the pipeline does a good job of finding lanes, a lot of features in the pipeline are handcrafted. We can use a higher capacity function to find lanes that generalizes well for most of the use cases.
