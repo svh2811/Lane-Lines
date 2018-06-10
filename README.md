@@ -78,7 +78,7 @@ My pipeline consisted of 5 steps.
 
 4. Another improvement done was, instead of using singular region of intrest we now have two regions of intrest one for each lane, therby further reducing the noise in the image.
 
-<img src="examples/out_advcd_pipe_challenge.gif" width="480" alt="out_advcd_pipe_challenge" />
+<img src="examples/out_advcd_pipe_challenge.gif" width="auto" alt="out_advcd_pipe_challenge" />
 
 ## 4. Potential shortcomings and improvements
 
