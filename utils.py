@@ -1,4 +1,3 @@
-import math
 import cv2
 import numpy as np
 
@@ -239,7 +238,7 @@ def weighted_img(img, initial_img, α=0.8, β=1., γ=0.):
     return cv2.addWeighted(initial_img, α, img, β, γ)
 
 
-def draw_quadrilateral(img, points, color = (255, 255, 255), thickness=1):
+def draw_quadrilateral(img, points, color=(255, 255, 255), thickness=1):
     p1, p2, p3, p4 = points
     cv2.line(img, p1, p2, color, thickness)
     cv2.line(img, p2, p3, color, thickness)
