@@ -1,6 +1,6 @@
 # **Finding Lane Lines on the Road** 
 
-## Overview
+Overview
 ---
 
 When we drive, we use our eyes to decide where to go. The lines on the road that show us where the lanes are act as our constant reference for where to steer the vehicle. Naturally, one of the first things we would like to do in developing a self-driving car is to automatically detect lane lines using an algorithm.
@@ -9,9 +9,10 @@ In this project we will detect lane lines in images using Python and OpenCV. Ope
 
 <img src="examples/laneLines_thirdPass.jpg" width="480" alt="Combined Image" />
 
-### Reflection
+Reflection
+---
 
-### 1. Image processing pipeline
+#### 1. Image processing pipeline
 
 My pipeline consisted of 5 steps.
 
@@ -25,7 +26,7 @@ My pipeline consisted of 5 steps.
 
 5. These Hough lines are consumed by draw_lines() used to draw left lane and right lane on the original color image
 
-### 2. draw_lines()
+#### 2. draw_lines()
 
 1. Input to draw_lines() function is number of line segments found by Hough transform
 
@@ -37,7 +38,7 @@ My pipeline consisted of 5 steps.
 
 5. Finally, we use the calculated approximate slope and intercept to draw left and right lane on the original color images.
 
-### 3. Improved Pipeline
+#### 3. Improved Pipeline
 
 1. Original Image pipeline was modified to make it more robust to light intensity variation. This algorithm was later tested on challenge.mp4 video.
 
@@ -47,7 +48,7 @@ My pipeline consisted of 5 steps.
 
 4. Another improvement done was, instead of using singular region of intrest we now have two regions of intrest one for each lane, therby further reducing the noise in the image.
 
-### 4. Potential shortcomings and improvements
+#### 4. Potential shortcomings and improvements
 
 1. The pipeline assume lane marking to be always present in the image for it to function properly.
 2. A potential improvement here is to use the history of lanes lines detected so far to assist in the current lane marking process.  
