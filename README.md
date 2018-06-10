@@ -15,7 +15,7 @@ Output
 
 
 <a href="http://www.youtube.com/watch?v=kt_0RBdz8rI" target="_blank">
-  <img src="http://img.youtube.com/vi/kt_0RBdz8rI/0.jpg" alt="Solid White Right" width="480" border="10" title="aaa" />
+  <img src="http://img.youtube.com/vi/kt_0RBdz8rI/0.jpg" alt="Solid White Right" width="480" border="10" />
 </a>
 
 #### Solid White Right
