@@ -23,6 +23,12 @@ Output
   <img src="examples/out_solidWhiteRight.gif" width="480" alt="Solid White Right" />
 </div>
 
+
+##### Solid White Right
+---
+<img src="examples/out_solidWhiteRight.gif" width="480" alt="Solid White Right" />
+
+
 <div style="margin-bottom: 20px">
   <div>
     Solid Yellow Right
