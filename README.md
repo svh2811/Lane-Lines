@@ -16,11 +16,14 @@ asasasa
 Output
 ---
 
-<img src="examples/out_solidWhiteRight.gif" width="480" alt="Solid White Right">Solid White Right</img>
+Solid White Right
+<img src="examples/out_solidWhiteRight.gif" width="480" alt="Solid White Right" />
 
-<img src="examples/out_solidYellowLeft.gif" width="480" alt="Solid Yellow Right">Solid Yellow Right</img>
+Solid Yellow Right
+<img src="examples/out_solidYellowLeft.gif" width="480" alt="Solid Yellow Right" />
 
-<img src="examples/out_challenge.gif" width="480" alt="Challenge Video">Challenge Video</img>
+Challenge Video
+<img src="examples/out_challenge.gif" width="480" alt="Challenge Video" />
 
 Reflection
 ---
