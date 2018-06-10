@@ -16,24 +16,24 @@ asasasa
 Output
 ---
 
+
 <img src="examples/out_solidWhiteRight.gif" width="480" alt="Solid White Right" />
+
 #### Solid White Right
 ---
 
+
 <img src="examples/out_solidYellowLeft.gif" width="480" alt="Solid Yellow Right" />
+
 #### Solid Yellow Right
 ---
 
-<div style="margin-bottom: 20px">
-  <div>
-    Challenge Video
-  </div>
-  <img src="examples/out_challenge.gif" width="480" alt="Challenge Video" />
-</div>
 
 <img src="examples/out_challenge.gif" width="480" alt="Challenge Video" />
+
 #### Challenge Video
 ---
+
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=7rEq2eerVfM
 " target="_blank"><img src="http://img.youtube.com/vi/7rEq2eerVfM/0.jpg" 
