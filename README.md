@@ -1,3 +1,8 @@
+img[src*='#center'] { 
+    display: block;
+    margin: auto;
+}
+
 # **Finding Lane Lines on the Road** 
 
 Overview
@@ -52,6 +57,8 @@ My pipeline consisted of 5 steps.
 4. Find Line segments for the edges present in images after region of interest filtering, these lines are calculated using Hough transform
 
 5. These Hough lines are consumed by draw_lines() used to draw left lane and right lane on the original color image
+
+![my image](examples/out_basic_pipeline.gif#center)  
 
 #### 2. draw_lines()
 
