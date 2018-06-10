@@ -9,13 +9,32 @@ In this project we will detect lane lines in images using Python and OpenCV. Ope
 
 <img src="examples/laneLines_thirdPass.jpg" width="480" alt="Combined Image" />
 
-Code
----
-asasasa
 
 Output
 ---
-asasasas
+
+<a href="http://www.youtube.com/watch?v=kt_0RBdz8rI" target="_blank">
+  <img src="http://img.youtube.com/vi/kt_0RBdz8rI/0.jpg" alt="Solid White Right" width="480" border="10" />
+</a>
+
+#### Solid White Right
+---
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=7rEq2eerVfM" target="_blank">
+  <img src="http://img.youtube.com/vi/7rEq2eerVfM/0.jpg" alt="Solid Yellow Right" width="480" border="10" />
+</a>
+
+#### Solid Yellow Right
+---
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=o_StXGERcOI" target="_blank">
+  <img src="http://img.youtube.com/vi/o_StXGERcOI/0.jpg" alt="Challenge Video" width="480" border="10" />
+</a>
+
+#### Challenge Video
+---
+
+
 
 Reflection
 ---
