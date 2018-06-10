@@ -16,8 +16,12 @@ asasasa
 Output
 ---
 
-Solid White Right
+<div>
+<div>
+  Solid White Right
+</div>  
 <img src="examples/out_solidWhiteRight.gif" width="480" alt="Solid White Right" />
+</div>
 
 Solid Yellow Right
 <img src="examples/out_solidYellowLeft.gif" width="480" alt="Solid Yellow Right" />
