@@ -53,8 +53,6 @@ My pipeline consisted of 5 steps.
 
 5. These Hough lines are consumed by draw_lines() used to draw left lane and right lane on the original color image
 
-<img src="examples/laneLines_thirdPass.jpg" width="480" alt="Combined Image" />
-
 #### 2. draw_lines()
 
 1. Input to draw_lines() function is number of line segments found by Hough transform
