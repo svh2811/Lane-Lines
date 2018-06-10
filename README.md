@@ -16,21 +16,21 @@ asasasa
 Output
 ---
 
-<div>
+<div style="margin-bottom: 20px">
   <div>
     Solid White Right
   </div>  
   <img src="examples/out_solidWhiteRight.gif" width="480" alt="Solid White Right" />
 </div>
 
-<div>
+<div style="margin-bottom: 20px">
   <div>
     Solid Yellow Right
   </div>
   <img src="examples/out_solidYellowLeft.gif" width="480" alt="Solid Yellow Right" />
 </div>
 
-<div>
+<div style="margin-bottom: 20px">
   <div>
     Challenge Video
   </div>
